@@ -1,0 +1,46 @@
+{
+  "richContent": [
+    [
+      {
+        "icon": {
+          "type": "link",
+          "color": "hashtagFF9800"
+        },
+        "link": "https://www.vce.ac.in/Placements/Placements_Info.cshtml?2020-2021",
+        "text": "Click here for placemet information",
+        "type": "button"
+      }
+    ]
+  ]
+}
+
+
+
+
+
+
+
+
+{
+  "richContent": [
+    [
+      {
+        "type": "chips",
+        "options": [
+          {
+            "text": "About the college"
+          },
+          {
+            "text": "Departments"
+          },
+          {
+            "text": "Extra curricular and co-curricular activities"
+          },
+          {
+            "text": "College events"
+          }
+        ]
+      }
+    ]
+  ]
+}
